@@ -3,7 +3,7 @@
 #### About Me
 
 ##### I'm Daryl, an aspiring a 🚀 Full Stack Developer & Digital Marketer. 
-- 🔭 I’m currently working on: Currently working on a project for Forwardier.com (Frontend & Backend)
+- 🔭 I’m currently working on some personal projects, you may visit my repo to check them out.
 
 
 #### Languages
